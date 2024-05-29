@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Talks
+
+### Badges
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="397f251b-95dc-4d58-a147-3a36b8e9b2a1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <!--
 **qedrakmar/qedrakmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
